@@ -3,6 +3,7 @@
 ## Basic Information
 |     Basic Information |   |
 |----------------------:|---|
+|                 Image | urltoimage |
 |     Party Affiliation | monsters |
 | Location Representing | some other monsters |
 |    Previous Positions | previous monsters |

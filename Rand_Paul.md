@@ -1,13 +1,12 @@
-# PERSON'S NAME
+# Rand Paul
 
 ## Basic Information
 |     Basic Information |   |
 |----------------------:|---|
-|                 Image | urltoimage |
-|     Party Affiliation | monsters |
-| Location Representing | some other monsters |
-|    Previous Positions | previous monsters |
-|      Official Website | example.org |
+|                 Image | |
+|     Party Affiliation | Republican Party |
+|    Previous Positions | |
+|      Official Website | |
 
 ## Candidate Positions
 |           Candidate Positions |   |

@@ -1,13 +1,12 @@
-# PERSON'S NAME
+# Hillary Clinton
 
 ## Basic Information
 |     Basic Information |   |
 |----------------------:|---|
-|                 Image | urltoimage |
-|     Party Affiliation | monsters |
-| Location Representing | some other monsters |
-|    Previous Positions | previous monsters |
-|      Official Website | example.org |
+|                 Image |  |
+|     Party Affiliation | Democratic Party |
+|    Previous Positions | |
+|      Official Website | |
 
 ## Candidate Positions
 |           Candidate Positions |   |

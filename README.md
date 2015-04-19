@@ -1,6 +1,6 @@
-# PolCompare Repository for ...
+# PolCompare Repository for 2016 USA Presidential Elections
 
-This is the PolCompare data repository for .... If you wish to contribute,
+This is the PolCompare data repository for 2016 USA Presidential Elections. If you wish to contribute,
 simply use the Github controls to edit files and submit pull requests, which
 will be evaluated by those maintaining the repository. Feel free to also request
 to help maintain the repository, because I am almost certain I don't have all the
